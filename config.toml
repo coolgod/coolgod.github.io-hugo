@@ -1,4 +1,7 @@
-baseURL = "http://cooglod.github.io"
+baseURL = "https://coolgod.github.io"
 languageCode = "en-us"
 title = "夏至未至"
-theme = "ananke"
+theme = "hyde-hyde"
+
+[params]
+  themeColor = "theme-base-08"
