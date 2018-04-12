@@ -1,0 +1,4 @@
+baseURL = "http://cooglod.github.io"
+languageCode = "en-us"
+title = "夏至未至"
+theme = "ananke"
